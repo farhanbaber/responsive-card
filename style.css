@@ -1,0 +1,96 @@
+.flex-container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 8rem;
+}
+ 
+#one{
+    text-align: center;
+    position: relative;
+    bottom: 22rem;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(0, 0, 0);
+    
+
+}
+#two{
+    text-align: center;
+    position: relative;
+    bottom: 23rem;
+    font-size: 12px;
+    color: black;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+}
+#three{
+    text-align: center;
+    position: relative;
+    bottom: 24rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    color: rgb(151, 124, 35);   
+
+   
+}
+#four{
+    text-align: center;
+    position: relative;
+    bottom: 25rem;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#five{
+    text-align: center;
+    position: relative;
+    bottom: 410px;
+    font-size: 21px;
+    font-family: monospace;
+    text-decoration: underline;
+    color: rgb(151, 124, 35);   
+}
+#six{
+    text-align: center;
+    position: relative;
+    bottom: 420px;
+    text-decoration: underline;
+    font-size: 21px;
+    color: rgb(151, 124, 35);   
+}
+#seven{
+    text-align: center;
+    position: relative;
+    bottom: 430px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#eight{
+    text-align: center;
+    position: relative;
+    bottom: 445px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 10px;
+}
+#nine{
+    text-align: center;
+    position: relative;
+    bottom: 455px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+}
+@media screen and (max-width: 767px) {
+    #eight{
+        font-size: 10px;
+    }
+    #nine{
+        font-size: 10px;
+    }
+    
+}
