@@ -1,0 +1,30 @@
+📖 Hafiz-e-Quran Khatm Card
+
+A beautifully designed || Hafiz-e-Quran Khatm Card || to track the progress of Quran memorization and revisions (dora/khatm). This project is ideal for use by Huffaz, teachers, or institutions to organize and monitor Quran completion cycles.
+
+---
+
+📋 Features
+
+- ✅ Track Juz (Sipara) completion status
+- 🕋 Simple, clean, and elegant Islamic-themed design
+- 🧠 Ideal for Hafiz-e-Quran students for daily or weekly khatam tracking
+- 📥 Downloadable or printable format (if applicable)
+- 📱 Mobile-friendly and responsive layout
+
+---
+
+🛠️ Technologies Used
+
+- || HTML5 || – For content structure  
+- || CSS3 || – For styling and layout   
+
+---
+
+ 📂 Project Structure
+
+```bash
+hafizequran-khatm-card/
+├── index.html         # Main card layout
+├── style.css          # Styling and design
+└── README.md          # Project documentation
